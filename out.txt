@@ -1,0 +1,9 @@
+Connected by ('192.168.1.2', 55172)
+Sorting by name
+3
+but this does print
+3
+i get here
+Response
+data
+computer,9,20-09-27;monitor,3,20-01-19;phone,15,20-11-20;table,10,21-09-10
